@@ -38,6 +38,6 @@ Soy un programador Full Stack altamente motivado y apasionado con un fuerte inte
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keskax&theme=buefy-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keskax&theme=buefy-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keskax&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
