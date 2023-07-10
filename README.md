@@ -33,7 +33,7 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Keskax&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kesskax&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 
