@@ -5,6 +5,7 @@
 Soy un programador Full Stack altamente motivado y apasionado con un fuerte interés en la tecnología.</h3>
 </div>
 
+<br>
 
 
 ### 👨‍💻 Acerca de mi :
