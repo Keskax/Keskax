@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer
+- 📝 I’m a full stack web developer
 
 - 📫 How to reach me **kcabello2@hotmail.com**
 
