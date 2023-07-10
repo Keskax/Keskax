@@ -36,7 +36,7 @@
 
 ### 📊 My Stats :
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Keskax)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=Keskax](https://github-readme-streak-stats.herokuapp.com?user=Keskax&theme=dark)https://github-readme-streak-stats.herokuapp.com?user=Keskax&theme=dark)
 
 
 
