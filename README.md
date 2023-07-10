@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
+    <h1 align="center">Hi 👋, I'm Kevin</h1>
+    <h3 align="center">A passionate fullstack web developer from Colombia.</h3>
 </div>
 ---
 
@@ -9,9 +9,9 @@
 
 - 📝 I work as a full stack web developer
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **kcabello2@hotmail.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m constantly learning
 
 
 <div align="left">
@@ -36,7 +36,7 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
 
