@@ -10,7 +10,7 @@ Soy un programador Full Stack altamente motivado y apasionado con un fuerte inte
 
 ### 👨‍💻 Acerca de mi :
 
-- 📝 Soy un Full Stack Developer
+- 📝 Soy un desarrollador web full stack
 
 - 📫 Como contactarme **kcabello2@hotmail.com**
 
