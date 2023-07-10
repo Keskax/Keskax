@@ -2,17 +2,17 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Kevin</h1>
     <h3 align="center">
-I am a highly motivated and passionate Full Stack programmer with a strong interest in technology.</h3>
+Soy un programador Full Stack altamente motivado y apasionado con un fuerte interés en la tecnología.</h3>
 </div>
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Acerca de mi :
 
-- 📝 I’m a full stack web developer
+- 📝 Soy un Full Stack Developer
 
-- 📫 How to reach me **kcabello2@hotmail.com**
+- 📫 Como contactarme **kcabello2@hotmail.com**
 
-- 🌱 I’m constantly learning
+- 🌱 Estoy en constante aprendizaje 
 
 
 <div align="left">
@@ -31,7 +31,7 @@ I am a highly motivated and passionate Full Stack programmer with a strong inter
 
 ---
 
-### 📊 My Stats :
+### 📊 Mis estadísticas :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keskax&theme=tokyonight-duo)](https://git.io/streak-stats)
