@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Kevin</h1>
     <h3 align="center">
-I am a highly motivated and passionate Full Stack programmer with a strong interest in technology..</h3>
+I am a highly motivated and passionate Full Stack programmer with a strong interest in technology.</h3>
 </div>
 ---
 
