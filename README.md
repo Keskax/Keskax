@@ -4,7 +4,6 @@
     <h3 align="center">
 Soy un programador Full Stack altamente motivado y apasionado con un fuerte interés en la tecnología.</h3>
 </div>
-
 ---
 
 
